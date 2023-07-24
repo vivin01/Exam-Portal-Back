@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/springexam.iml" filepath="$PROJECT_DIR$/.idea/springexam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exam-Portal-Back.iml" filepath="$PROJECT_DIR$/.idea/Exam-Portal-Back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springexam/springexam.iml" filepath="$PROJECT_DIR$/springexam/springexam.iml" />
     </modules>
   </component>
 </project>
