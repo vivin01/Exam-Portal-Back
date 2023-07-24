@@ -1,5 +1,3 @@
-// vivin mevada
-// utsav dharani
 
 package com.example.springexam;
 
