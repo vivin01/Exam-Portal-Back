@@ -1,3 +1,5 @@
+// vivin mevada
+
 package com.example.springexam;
 
 import com.example.springexam.model.Role;
@@ -20,7 +22,7 @@ public class SpringexamApplication implements CommandLineRunner {// this command
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringexamApplication.class, args);
-		// this is nothing just comment for github
+		// this is nothing just comment for GitHub
 	}
 
 	@Override
